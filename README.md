@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadh4x&label=Profile%20views&color=0e75b6&style=flat" alt="deadh4x" /> </p>
 
+<p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_131024.gif" width="250" height="200" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadh4x" alt="deadh4x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/deadh4x" target="blank"><img src="https://img.shields.io/twitter/follow/deadh4x?logo=twitter&style=for-the-badge" alt="deadh4x" /></a> </p>
