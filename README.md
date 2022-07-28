@@ -1,14 +1,17 @@
-<h1 align="center">𝙒𝙀𝙇𝙇 𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀 ᗪᗴᗩᗪᕼ4᙭</h1>
-<h3 align="center">Posting for a friend and the friend is me🙃</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fuzzy+Bubbles&size=35&duration=4000&color=FF0000&width=505&height=55&lines=WELCOME+TO+MY+PROFILE+%F0%9F%9B%A1%EF%B8%8F;DEADH4X+IS+HERE)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deadh4x&label=Profile%20views&color=0e75b6&style=flat" alt="deadh4x" /> </p>
+<h1 align="center">𝙒𝙀𝙇𝘾𝙊𝙈𝙀</h1>
+<h3 align="center">DEADH4X</h3>
 
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadh4x" alt="deadh4x" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/deadh4x" target="blank"><img src="https://img.shields.io/twitter/follow/deadh4x?logo=twitter&style=for-the-badge" alt="deadh4x" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deadh4x&label=Profile%20views&color=0e75b6&style=flat" alt="deadh4x" /> </p>
+<p align="center"><a href="https://wa.me/message/BSNLUHMX7DGZK1"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
 
+<p align="left"> <a href="https://twitter.com/deadh4x" target="blank"><img src="https://img.shields.io/twitter/follow/deadh4x?logo=twitter&style=for-the-badge" alt="deadh4x" /></a> </p>
 - 🔭 I’m currently working on [GitHub](https://github.com/DEADH4X)
 
 - 🌱 I’m currently learning **Python,java,bash**
