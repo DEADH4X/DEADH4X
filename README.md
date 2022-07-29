@@ -21,8 +21,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadh4x" alt="deadh4x" /></a> </p>
 
+<h2> ABOUT ME : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/20220729_215243%20(1).gif' width = '60px'></h2>
 
-<h4 align="left">🏆ABOUT</h4>
 
 - 𝙃𝘼𝙇𝙇𝙊 𝙄𝙈 𝘿𝙀𝘼𝘿𝙃4𝙓
 - 𝙁𝙍𝙊𝙈 𝘽𝘼𝙉𝙂𝙇𝘼𝘿𝙀𝙎𝙃<img src="https://github.com/DEADH4X/DEADH4X/blob/main/533000752bangladesh-flag-waving-gif-animation-8.gif" width=" 40px">
