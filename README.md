@@ -33,7 +33,7 @@
 <a href="https://discord.gg/https://discord.gg/rBREVagaRs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rBREVagaRs" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadh4x&show_icons=true&locale=en" alt="deadh4x" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadh4x&show_icons=true&theme=synthwave" alt="deadh4x" /></p>
 
 
 
