@@ -13,6 +13,8 @@
 <h3 align="left">GITHUB STATUS</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadh4x&label=Profile%20views&color=0e75b6&style=flat" alt="deadh4x" /> </p>
 
+[![GitHub followers](https://img.shields.io/github/followers/deadh4x.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deadh4x?tab=followers)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/deadh4x/count.svg)
 
