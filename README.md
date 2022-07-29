@@ -17,19 +17,22 @@
 >VISITORS :
 ![Visitor Count](https://profile-counter.glitch.me/deadh4x/count.svg)
 
-<h3><b><i>🏆 GITHUB STATISTICS
+<h4 align="left">🏆 GITHUB STATISTICS</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadh4x" alt="deadh4x" /></a> </p>
 
 
 <h4 align="left">🏆ABOUT</h4>
 
-
+- 𝙃𝘼𝙇𝙇𝙊 𝙄𝙈 𝘿𝙀𝘼𝘿𝙃4𝙓
+- 𝙁𝙍𝙊𝙈 𝘽𝘼𝙉𝙂𝙇𝘼𝘿𝙀𝙎𝙃<img src="https://github.com/DEADH4X/DEADH4X/blob/main/533000752bangladesh-flag-waving-gif-animation-8.gif" width=" 40px">
+- 𝙄𝙈 𝘼 𝙉𝙊𝙍𝙈𝘼𝙇 𝘾𝙊𝘿𝙀𝙍
+- 𝙈𝙔 𝙃𝙊𝘽𝘽𝙔 𝙄𝙎 𝙃𝘼𝘾𝙆𝙄𝙉𝙂
 - 💼 WORKING ON [GitHub](https://github.com/DEADH4X)
 
-- 💻 currently learning **Python,java,bash**
+- 💻 currently learning ***Python,java,bash***
 
-- 📞 Content me **deadh4x@gmail.com**
+- 📞 CONTACT ME **deadh4x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
