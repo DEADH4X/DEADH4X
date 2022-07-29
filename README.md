@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fuzzy+Bubbles&size=35&duration=4000&color=FF0000&width=505&height=55&lines=WELCOME+TO+MY+PROFILE+%F0%9F%9B%A1%EF%B8%8F;DEADH4X+IS+HERE)](https://git.io/typing-svg)
-
-<h1 align="center">𝙒𝙀𝙇𝘾𝙊𝙈𝙀</h1>
+<img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/welcome.gif' width = '250px'></h2>
 <h3 align="center">DEADH4X</h3>
 
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
