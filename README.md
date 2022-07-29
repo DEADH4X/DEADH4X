@@ -19,9 +19,9 @@
 
 <h3 align="left">ABOUT</h3>
 
-- 🔭 currently working on [GitHub](https://github.com/DEADH4X)
+- 💼 WORKING ON [GitHub](https://github.com/DEADH4X)
 
-- 🌱 I’m currently learning **Python,java,bash**
+- 💻 currently learning **Python,java,bash**
 
 - 📞 Content me **deadh4x@gmail.com**
 
