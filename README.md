@@ -4,10 +4,9 @@
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
 
 
-
 <p align="center"><a href="https://wa.me/message/BSNLUHMX7DGZK1"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
 
-<h3> GITHUB STATUS : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/43bf277e2f8620f3ffa874fbaec55a3c.gif' width = '50px'></h2>
+<h3> 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙐𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/43bf277e2f8620f3ffa874fbaec55a3c.gif' width = '50px'></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadh4x&label=Profile%20views&color=0e75b6&style=flat" alt="deadh4x" /> </p>
 
@@ -16,13 +15,13 @@
 >VISITORS :
 ![Visitor Count](https://profile-counter.glitch.me/deadh4x/count.svg)
 
-<h2> STATISTICS : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/responsive_stats.gif' width = '80px'></h2>
+<h2> 𝙎𝙏𝘼𝙏𝙄𝙎𝙏𝙄𝘾𝙎 :<img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/responsive_stats.gif' width = '80px'></h2>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadh4x" alt="deadh4x" /></a> </p>
 
 
-<h3> ANALYTICS : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/Comp_13.gif' width = '60px'></h2>
+<h3> 𝘼𝙉𝘼𝙇𝙔𝙏𝙄𝘾𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/Comp_13.gif' width = '60px'></h2>
 
 
  ![sajjad's 𝚐𝚒𝚝𝚑𝚞𝚋 graph](https://activity-graph.herokuapp.com/graph?username=deadh4x&theme=redical&hide_border=true&area=true)
@@ -36,7 +35,7 @@
 
 
 
-<h3> CONNECT ME : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/contact-us1.gif' width = '40px'></h2>
+<h3> 𝘾𝙊𝙉𝙉𝙀𝘾𝙏 𝙈𝙀 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/contact-us1.gif' width = '40px'></h2>
 
 
 <p align="left">
@@ -46,7 +45,7 @@
 <a href="https://discord.gg/https://discord.gg/rBREVagaRs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rBREVagaRs" height="30" width="40" /></a>
 </p>
 
-<h3> ABOUT ME : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/20220729_215243%20(1).gif' width = '60px'></h2>
+<h3> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/20220729_215243%20(1).gif' width = '60px'></h2>
 
 
 - 𝙃𝘼𝙇𝙇𝙊 𝙄𝙈 𝘿𝙀𝘼𝘿𝙃4𝙓
@@ -62,7 +61,7 @@
 
 
 
-<h3> SKILLS : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h3> 𝙎𝙆𝙄𝙇𝙇𝙎 : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 
 
@@ -82,5 +81,5 @@
 
 -
 -
-## TOOLS
+## 𝙏𝙊𝙊𝙇𝙎
 <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/images%20(17).jpeg' width = '270px' height="130" ></h2>
