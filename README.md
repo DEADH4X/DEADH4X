@@ -51,7 +51,7 @@
 
 - 𝙃𝘼𝙇𝙇𝙊 𝙄𝙈 𝘿𝙀𝘼𝘿𝙃4𝙓
 - 𝙁𝙍𝙊𝙈 𝘽𝘼𝙉𝙂𝙇𝘼𝘿𝙀𝙎𝙃<img src="https://github.com/DEADH4X/DEADH4X/blob/main/533000752bangladesh-flag-waving-gif-animation-8.gif" width=" 40px">
-- 𝙄𝙈 𝘼 𝙉𝙊𝙍𝙈𝘼𝙇 𝘾𝙊𝘿𝙀𝙍
+- 𝙄𝙈 𝘼 𝙉𝙊𝙍𝙈𝘼𝙇 𝙐𝙎𝙀𝙍
 - 𝙈𝙔 𝙃𝙊𝘽𝘽𝙔 𝙄𝙎 𝙃𝘼𝘾𝙆𝙄𝙉𝙂
 - 💼 WORKING ON [GitHub](https://github.com/DEADH4X)
 
@@ -70,17 +70,3 @@
 
 
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/d2e58b5a43b7f21bb9f06167e3980224.gif" width="270" height="130" /></p>
-
-<br>
-<br>
-  <br>
-
-
-
-
-
-
--
--
-## 𝙏𝙊𝙊𝙇𝙎
-<img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/images%20(17).jpeg' width = '270px' height="130" ></h2>
