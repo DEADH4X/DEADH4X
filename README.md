@@ -8,22 +8,19 @@
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
 
 
-<p align="center"><a href="https://t.me/thebotolbaba"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<p align="center"><a href="https://t.me/DEADH4X"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 
 <h3> 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙐𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/43bf277e2f8620f3ffa874fbaec55a3c.gif' width = '50px'></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadh4x&label=Profile%20views&color=0e75b6&style=flat" alt="deadh4x" /> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/deadh4x.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deadh4x?tab=followers)
-
 >VISITORS :
 ![Visitor Count](https://profile-counter.glitch.me/deadh4x/count.svg)
 
 <h2> 𝙎𝙏𝘼𝙏𝙄𝙎𝙏𝙄𝘾𝙎 :<img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/responsive_stats.gif' width = '80px'></h2>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadh4x" alt="deadh4x" /></a> </p>
+<a href="https://github.com/DEADH4X"><img width=550 src="https://github-profile-trophy.vercel.app/?username=DEADH4X&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 
 <h3> 𝘼𝙉𝘼𝙇𝙔𝙏𝙄𝘾𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/Comp_13.gif' width = '60px'></h2>
@@ -40,7 +37,7 @@
 
 
 
-<h3> 𝘾𝙊𝙉𝙉𝙀𝘾𝙏 𝙈𝙀 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/contact-us1.gif' width = '40px'></h2>
+<h3> 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/contact-us1.gif' width = '40px'></h2>
 
 
 <p align="left">
