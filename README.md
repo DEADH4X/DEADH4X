@@ -8,7 +8,8 @@
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
 
 
-<p align="center"><a href="https://wa.me/message/BSNLUHMX7DGZK1"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
+<p align="center"><a href="https://t.me/thebotolbaba"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
 
 <h3> 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙐𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/43bf277e2f8620f3ffa874fbaec55a3c.gif' width = '50px'></h2>
 
@@ -52,19 +53,24 @@
 
 <h3> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/20220729_215243%20(1).gif' width = '60px'></h2>
 
+<img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
 
-- 𝙃𝘼𝙇𝙇𝙊 𝙄𝙈 𝘿𝙀𝘼𝘿𝙃4𝙓
-- 𝙁𝙍𝙊𝙈 𝘽𝘼𝙉𝙂𝙇𝘼𝘿𝙀𝙎𝙃<img src="https://github.com/DEADH4X/DEADH4X/blob/main/533000752bangladesh-flag-waving-gif-animation-8.gif" width=" 40px">
-- 𝙄𝙈 𝘼 𝙉𝙊𝙍𝙈𝘼𝙇 𝙐𝙎𝙀𝙍
-- 𝙈𝙔 𝙃𝙊𝘽𝘽𝙔 𝙄𝙎 𝙃𝘼𝘾𝙆𝙄𝙉𝙂
-- 💼 WORKING ON [GitHub](https://github.com/DEADH4X)
-
-- 💻 currently learning ***Python,java,bash***
-
-- 📞 CONTACT ME **deadh4x@gmail.com**
-
-
-
+- 𝗡𝗔𝗠𝗘 : 𝗡𝗔𝗬𝗘𝗠 𝗛𝗢𝗦𝗦𝗔𝗜𝗡
+ 
+<img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
+ 
+- 𝗖𝗢𝗨𝗡𝗧𝗥𝗬 : 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛
+ 
+<img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
+ 
+- 𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡 : 𝗜𝗦𝗟𝗔𝗠
+ 
+<img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
+ 
+- 𝗜𝗠 𝗡𝗢𝗥𝗠𝗔𝗟 𝗨𝗦𝗘𝗥 
+ 
+<img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
+ 
 
 <h3> 𝙎𝙆𝙄𝙇𝙇𝙎 : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
