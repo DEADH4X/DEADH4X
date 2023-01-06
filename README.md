@@ -22,8 +22,8 @@
 
 <h3> 𝘼𝙉𝘼𝙇𝙔𝙏𝙄𝘾𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/Comp_13.gif' width = '60px'></h2>
 
- ![sajjad's 𝚐𝚒𝚝𝚑𝚞𝚋 graph](https://activity-graph.herokuapp.com/graph?username=deadh4x&theme=redical&hide_border=true&area=true)
-| ![sajjad's github stats](https://github-readme-stats.vercel.app/api?username=deadh4x&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deadh4x&theme=radical)                                                                                                           |
+ ![Nicholas's 𝚐𝚒𝚝𝚑𝚞𝚋 graph](https://activity-graph.herokuapp.com/graph?username=deadh4x&theme=redical&hide_border=true&area=true)
+| ![Nicholas's github stats](https://github-readme-stats.vercel.app/api?username=deadh4x&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deadh4x&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadh4x&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=deadh4x&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
@@ -41,11 +41,11 @@
 
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
 
-- 𝗡𝗔𝗠𝗘 : 𝗡𝗔𝗬𝗘𝗠 𝗛𝗢𝗦𝗦𝗔𝗜𝗡
+- 𝗡𝗔𝗠𝗘 : 𝗡𝗜𝗖𝗛𝗢𝗟𝗔𝗦 𝗝. 𝗦𝗠𝗜𝗧𝗛
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
  
-- 𝗖𝗢𝗨𝗡𝗧𝗥𝗬 : 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛
+- 𝗖𝗢𝗨𝗡𝗧𝗥𝗬 : 𝗨𝗡𝗜𝗧𝗘𝗗 𝗦𝗧𝗔𝗧𝗘𝗦
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
  
@@ -53,7 +53,7 @@
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
  
-- 𝗜𝗠 𝗡𝗢𝗥𝗠𝗔𝗟 𝗨𝗦𝗘𝗥 
+- 𝗜𝗠 𝗬𝗢𝗨𝗥 𝗦𝗧𝗨𝗗𝗘𝗡𝗧 😉😉
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
  
