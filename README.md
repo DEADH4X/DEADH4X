@@ -3,7 +3,6 @@
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-<img align ='left' src='https://github.com/DEADH4X/DEADH4X/blob/main/20220731_105425.png' width = '200px' height="20"></h2>
 
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
 
